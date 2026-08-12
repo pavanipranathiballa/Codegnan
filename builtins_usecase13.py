@@ -80,7 +80,7 @@ while num <= end:
     
     num = num + 1
 '''
-"""
+#1st task
 import math,random
 import smtplib
 import email
@@ -208,7 +208,8 @@ def choicechooser():
         else:
             print("Enter only valid ooptions")
 choicechooser()
-"""
+
+#movie task
 
 import random
 from datetime import datetime,timedelta
